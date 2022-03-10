@@ -1,7 +1,7 @@
 ## Welcome to Colin's Personal Github Page
-# Header 1
-## Header 2
-### Header 3
+# Notes
+# Data Structures Project
+# Create Task
 
 - Bulleted
 - List
