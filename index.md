@@ -3,68 +3,68 @@
 
 # Test Prep Study
 
-## Unit 5
+## Unit 5 Notes
 ### 5.1 Beneficial and Harmful Effects
-Accelerometer:
-Automobile industry drove price down
-Used for airbag deployment and lateral movement detection
-Quadcopter “brain”
-Multirotor
-Benefit - deliveries, finding lost people, aerial photography
-Harmful - flying in unregulated zones is illegal and dangerous
-Wii controller
-Benefit - gets people active with videogames
-Harmful - Broken TV’s and injuries
-3D Printers
-Open-source software for computer and printer
-Can make organs/prosthetics, houses, shoes
-Internet
-People spend more time on internet than sleeping
-Sleep deprivation, depression, anxiety, impulsivity, dopamine feedback loops
-Microtransactions
-“Free” Games/Apps
-Cosmetics, paywall to functionality, pay-to-win
+* Accelerometer:
+	* Automobile industry drove price down
+	* Used for airbag deployment and lateral movement detection
+	* Quadcopter “brain”
+* Multirotor
+	* Benefit - deliveries, finding lost people, aerial photography
+	* Harmful - flying in unregulated zones is illegal and dangerous
+* Wii controller
+	* Benefit - gets people active with videogames
+	* Harmful - Broken TV’s and injuries
+* 3D Printers
+	* Open-source software for computer and printer
+	* Can make organs/prosthetics, houses, shoes
+* Internet
+	* People spend more time on internet than sleeping
+	* Sleep deprivation, depression, anxiety, impulsivity, dopamine feedback loops
+* Microtransactions
+	* “Free” Games/Apps
+	* Cosmetics, paywall to functionality, pay-to-win
 
 ### 5.2 Digital Divide
 Based on socioeconomic and geographic demographics
 In some countries
-Computers are not common in rural areas
-Only small number of websites
-Internet used to protect government
-High level of surveillance to protect government
+* Computers are not common in rural areas
+	* Only small number of websites
+	* Internet used to protect government
+	* High level of surveillance to protect government
 
 ### 5.3 Computing Bias
-Netflix
-Explicit Data 
-Name, address
-Implicit Data
-When you watch
-What you watch
-Style of show
-Bias 
-Exclusives featured ahead of most
-Software can be biased
-Casual vs Sweaty
-Youtube Kids
-Facebook vs Instagram vs Snapchat/Tik Tok
-WeChat/KakaoTalk
+* Netflix
+	* Explicit Data 
+	* Name, address
+	* Implicit Data
+	* When you watch
+	* What you watch
+	* Style of show
+* Bias 
+	* Exclusives featured ahead of most
+	* Software can be biased
+* Casual vs Sweaty
+	* Youtube Kids
+	* Facebook vs Instagram vs Snapchat/Tik Tok
+	* WeChat/KakaoTalk
 
 
 ### 5.4 Crowdsourcing
-Kaggle
-Courses in visualizations, TensorFlow, AI, machine learning
-Competitions
-Notebooks
-Distrivuted Computing
-Donate spare computing power to help calculations
-Spotify
-Collaborative playlists
-Algorithm
-Metadata write in
-Crowdfunding
-Kickstarter
-IndieGoGo
-BlockChain
+* Kaggle
+	* Courses in visualizations, TensorFlow, AI, machine learning
+	* Competitions
+	* Notebooks
+* Distrivuted Computing
+	* Donate spare computing power to help calculations
+	* Spotify
+		* Collaborative playlists
+* Algorithm
+	* Metadata write in
+* Crowdfunding
+	* Kickstarter
+	* IndieGoGo
+	* BlockChain
 
 ### 5.5 Legal and Ethical concerns
 Intellectual property (IP)
@@ -132,6 +132,7 @@ Private key for decrypting
 ## Github Actions
 
 ### 5.1 Actions
+
 Beneficial/harmful effects of computing
 Benefits
 Increased efficiency in production of everyday goods which decreases costs, Decreased need for paper and paper products which saves trees, Increased productivity for general daily tasks ie; typing is faster than writing notes physically which increases productivity.
@@ -141,12 +142,19 @@ Dopamine issues?
 Dopamine issues within our generations are definitely a real problem. With easy access to many things that can give you instant gratification, it can create too much constant dopamine. This would numb you to dopamine and require more to feel the same joys and highs you previously would, very similar to reactions when taking drugs. It creates a sort of addiction which can be linked back to computers and access to pretty much anything whenever you want
 
 ### 5.2 Actions
+
 How does someone empower themselves in a digital world?
 The digital world has access to so much info at once that you can empower yourself simply by learning from the massive amounts of data on the web. 
 How to empower someone who is not empowered?
 A way to help empower others is to teach. Take the info you’ve learned online and through the web to help others learn, especially if they don’t have access to those same resources you have. Even at Del Norte we can help empower others through teaching them how to better utilize and use their technology to its fullest capabilities
 Is red tape blocking digital empowerment?
 I think red tape does block digital empowerment often. Here at Del Norte we are pretty well off, the only red tape blocking us is the internet which sometimes blocks sites we could use for learning more about coding. For the most part it isn’t that bad though. HOwever in other places, there are likely lots of things preventing digital empowerment. All policies have to go through bureaucracy and so it may take time before other people are able to digitally empower themselves due to restrictions and blocks placed in front of them.
+
+### 5.3 Actions
+
+
+
+### 5.4 Actions
 
 
 
