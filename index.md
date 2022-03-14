@@ -134,20 +134,31 @@ Private key for decrypting
 ### 5.1 Actions
 
 Beneficial/harmful effects of computing
+
 Benefits
+
 Increased efficiency in production of everyday goods which decreases costs, Decreased need for paper and paper products which saves trees, Increased productivity for general daily tasks ie; typing is faster than writing notes physically which increases productivity.
-	Harms
+
+Harms
+
 Creation of gambling/gacha games which makes it very easy for people to fall victim to gambling addiction, Easy to access illegal content which may facilitate crimes, requires lots of energy and manufacturing which may increase the amount of pollution
+
 Dopamine issues?
+
 Dopamine issues within our generations are definitely a real problem. With easy access to many things that can give you instant gratification, it can create too much constant dopamine. This would numb you to dopamine and require more to feel the same joys and highs you previously would, very similar to reactions when taking drugs. It creates a sort of addiction which can be linked back to computers and access to pretty much anything whenever you want
 
 ### 5.2 Actions
 
 How does someone empower themselves in a digital world?
+
 The digital world has access to so much info at once that you can empower yourself simply by learning from the massive amounts of data on the web. 
+
 How to empower someone who is not empowered?
+
 A way to help empower others is to teach. Take the info you’ve learned online and through the web to help others learn, especially if they don’t have access to those same resources you have. Even at Del Norte we can help empower others through teaching them how to better utilize and use their technology to its fullest capabilities
+
 Is red tape blocking digital empowerment?
+
 I think red tape does block digital empowerment often. Here at Del Norte we are pretty well off, the only red tape blocking us is the internet which sometimes blocks sites we could use for learning more about coding. For the most part it isn’t that bad though. HOwever in other places, there are likely lots of things preventing digital empowerment. All policies have to go through bureaucracy and so it may take time before other people are able to digitally empower themselves due to restrictions and blocks placed in front of them.
 
 ### 5.3 Actions
