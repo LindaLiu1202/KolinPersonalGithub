@@ -167,6 +167,9 @@ I think red tape does block digital empowerment often. Here at Del Norte we are 
 
 ### 5.4 Actions
 
+CrowdSourcing Idea
+
+One project we could make with crowdsourcing is a collection of birthdays. If everybody input their name and birthday, we could create  aprogram that automatically tells everyone happy birthday on the day. We could also create graphs and data of most common birthdays, zodiac signs and stuff like that.
 
 
 # Data Structures Project
