@@ -156,7 +156,7 @@ I think red tape does block digital empowerment often. Here at Del Norte we are 
 
 ![image](https://user-images.githubusercontent.com/89219634/158096980-adc94063-90c9-4f99-b0b9-12fb4a48d045.png)
 
-## [Replit](https://replit.com/@ColinHoward3/KolinPersonalGithub-1#README.md)
+## [Replit](https://replit.com/@ColinHoward3/KolinPersonalGithub-2#main.py)
 
 ## [Github Code](https://github.com/KoolKidKai/Siuuuu/find/main)
 
