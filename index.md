@@ -1,5 +1,5 @@
 # KolinPersonalGithub
-Go me
+### [Week 0 Review Ticket](https://github.com/KoolKidKai/KolinPersonalGithub/issues/1)
 
 # Test Prep Study
 
