@@ -9,7 +9,7 @@
     </tr>
   
   <tr>
-    <td>Week 1</td>
+    <td>Week 0</td>
     <td>Plans, Team, Jobs</td>
     <td><a href="https://github.com/KoolKidKai/KolinPersonalGithub/issues/1" a/>Review Ticket 0</td>
     <td>March 14</td>
