@@ -124,7 +124,7 @@ def main():
                "DOB": "March 14th",  
                "Residence": "Poway, CA",  
                "Email": "colinh36220@stu.powayusd.com",  
-               "hobbies":["Cooking","Video Games","Playing Music"]  
+               "hobbies":["Cooking","Video Games","Playing Music","Going to the gym"]  
               }) 
             def print_data(n):
               print(InfoDb[n]["FirstName"], InfoDb[n]["LastName"])
@@ -155,7 +155,7 @@ def main():
                "DOB": "March 14th",  
                "Residence": "Poway",  
                "Email": "colinh36220@stu.powayusd.com",  
-               "hobbies":["Cooking","Video Games","Playing Music"]  
+               "hobbies":["Cooking","Video Games","Playing Music","Going to the gym"]  
               }) 
             def print_data(n):
               print(InfoDb[n]["FirstName"], InfoDb[n]["LastName"])
