@@ -4,7 +4,7 @@
 
 <iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@ColinHoward3/KolinPersonalGithub-4?embed=true"></iframe>
 
-# Key Learnings
+# Key Learnings (Week 1)
 
 ![image](https://user-images.githubusercontent.com/89219634/159347153-b026ef34-4039-4470-9f45-b657351923c1.png)
 The three loop types
