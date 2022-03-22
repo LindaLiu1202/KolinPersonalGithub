@@ -175,3 +175,45 @@ One project we could make with crowdsourcing is a collection of birthdays. If ev
 Improvements on our project?
 
 I think there are ways we could use crowdsourcing to improve out final website. For example, I think if we allowed people to edit and add to the calendar that we plan on putting in the website, that would be a good way to add info and dates that otehrs may want to see. Our project itself could be based on crowdsourced solutions to the tutorials as well so that others may look at previous solutions that coders have created before them for ideas and guidance on how to complete the tutorials themselves if they are having trouble.
+
+### 5.5 Actions
+
+**GitHub License Types**
+ - GNU General Public License
+ 	- open source
+ 	- free software license
+ 	- free to run, study, modify and share
+ - Apache License 2.0
+ 	- permissive, free software license
+ 	- free to modify, distribute and distribute modified derivatives
+ - MIT License
+ 	- can edit and dsitribute freely
+ 	- must credit original MIT license
+ - Creative Commons License
+ 	- free open source license
+ - The Unlicense
+ 	- gives up rights to you project
+ 	- dedicates software to the public domain
+ - GNU GPLv3
+ 	- can edit and distribute
+ 	- must include original source code with your version
+ 	- similar to advertisements
+
+**Team and Personal License**
+
+
+### 5.6 Actions
+
+I have seen PII in many places in our projects. The previous two trimesters we had about me pages specifically detailing personal info about our teams.Then during second tri we had the CRUD pages with names, phone numbers and emails of people. Even now, my menu function has a database function that contains some personal info about me like my name, date of birth and school email.
+
+I don't like giving my PII out freely however I know that it already is all over the internet. And there's no way I could really prevent it. The info is already out there, so if someone wants it they can find it regardless. So I don't really mind the small amounts of data I provide on our projects.
+
+I've heard the strongest passwords are made up of four unrelated words strung together with capitols for the start of each word as well. Most peope don't make passwrods like these though. A strong password should have lower case, capitols, numbers and symbols, and should be long. A weak password may not have all of these things. Or if your password is some kind of identifiable info like your birthdate or last name, it would be considered a very poor password. 2FA is used to make your accounts harder to break as well. If you are logging in from a new device, you may receive an email with a one time use code, or you may be required to answer a personal question, with info that isn't readily available online.
+
+Symmetric encryption is when you use a single key to both encrypt and decrypt your information. This means it would be easier to gain access to due to only needing one key to fully access the info
+Asymmetric encryption is when you use two different keys, one to encrypt the data and then a second different key in order to decrypt that info.
+
+An example of encryption that we have used in our deployment is HTTPS. The secured part encrypts data on the website for a more secure way of transferring data.
+
+Some phishing techniques I have seen and experienced include many people pretending to be different companies requesting some sort of login info so that they may 'assist' with some problem in your account. These false emails want some baseline to your personal info or account info so that they may break into your account. Another phishing attempt may give a link to what seems like a trustworthy website, however when you click on the link, it automatically downloads malware or viruses on to your device. These programs often search your computer for data or personal info as well.
+
