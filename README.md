@@ -21,3 +21,9 @@
       <td>Lists and Loops</td>
       <td><a href="https://github.com/KoolKidKai/KolinPersonalGithub/issues/2">Review Ticket 1
       <td>March 18</td>
+         
+   <tr>
+      <td>Week 2</td>
+      <td>Classy Functions</td>
+      <td><a href="https://github.com/KoolKidKai/KolinPersonalGithub/issues/4">Review Ticket 2
+      <td>March 28</td>
