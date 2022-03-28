@@ -6,6 +6,9 @@
 
 # Key Learnings (Week 2)
 
+![image](https://user-images.githubusercontent.com/89219634/160471777-f4fd97fc-f3fb-4c21-a8c6-dcf52d089156.png)
+Organized files
+
 ![image](https://user-images.githubusercontent.com/89219634/160471519-74d3d2e9-abd5-40bc-b76c-40b396196beb.png)
 Factorial function
 
