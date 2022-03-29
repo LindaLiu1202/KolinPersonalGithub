@@ -1,5 +1,7 @@
 {% include navigation.html %}
 
+___
+
 # Capture the Moment
 
 **What can I do with tech to improve mine or others' educations?**
