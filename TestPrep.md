@@ -10,7 +10,9 @@ ___
 	* Automobile industry drove price down
 	* Used for airbag deployment and lateral movement detection
 	* Quadcopter “brain”
+	
 <br>
+
 * Multirotor
 	* Benefit - deliveries, finding lost people, aerial photography
 	* Harmful - flying in unregulated zones is illegal and dangerous
@@ -18,19 +20,27 @@ ___
 * Wii controller
 	* Benefit - gets people active with videogames
 	* Harmful - Broken TV’s and injuries
+
 <br>
+
 * 3D Printers
 	* Open-source software for computer and printer
 	* Can make organs/prosthetics, houses, shoes
+
 <br>
+
 * Internet
 	* People spend more time on internet than sleeping
 	* Sleep deprivation, depression, anxiety, impulsivity, dopamine feedback loops
+
 <br>
+
 * Microtransactions
 	* “Free” Games/Apps
 	* Cosmetics, paywall to functionality, pay-to-win
+
 <br>
+
 ### 5.2 Digital Divide
 Based on socioeconomic and geographic demographics
 In some countries
