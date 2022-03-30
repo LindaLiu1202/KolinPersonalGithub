@@ -7,45 +7,30 @@ ___
 ## Unit 5 Notes
 ### 5.1 Beneficial and Harmful Effects
 * Accelerometer:
-	* Automobile industry drove price down
-	* Used for airbag deployment and lateral movement detection
-	* Quadcopter “brain”
-	
-<br>
-
+  * Automobile industry drove price down
+  * Used for airbag deployment and lateral movement detection
+  * Quadcopter “brain”
 * Multirotor
-	* Benefit - deliveries, finding lost people, aerial photography
-	* Harmful - flying in unregulated zones is illegal and dangerous
-<br>
+  * Benefit - deliveries, finding lost people, aerial photography
+  * Harmful - flying in unregulated zones is illegal and dangerous
 * Wii controller
-	* Benefit - gets people active with videogames
-	* Harmful - Broken TV’s and injuries
-
-<br>
-
+  * Benefit - gets people active with videogames
+  * Harmful - Broken TV’s and injuries
 * 3D Printers
 	* Open-source software for computer and printer
 	* Can make organs/prosthetics, houses, shoes
-
-<br>
-
 * Internet
 	* People spend more time on internet than sleeping
 	* Sleep deprivation, depression, anxiety, impulsivity, dopamine feedback loops
-
-<br>
-
 * Microtransactions
 	* “Free” Games/Apps
 	* Cosmetics, paywall to functionality, pay-to-win
-
-<br>
 
 ### 5.2 Digital Divide
 Based on socioeconomic and geographic demographics
 In some countries
 * Computers are not common in rural areas
-	* Only small number of websites
+        * Only small number of websites
 	* Internet used to protect government
 	* High level of surveillance to protect government
 
